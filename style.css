@@ -1,0 +1,64 @@
+header{
+    text-align: center;
+    background-color: #00cc99;
+    font-size: 250%;
+    font-family: 'Courier New', Courier, monospace;
+    color:#ffffff;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+footer{text-align: center;
+    background-color: #00cc99;
+    font-size: 150%;
+    font-family: 'Courier New', Courier, monospace;
+    color:#ffffff;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.container{
+    text-align: center;
+}
+
+h1{
+    
+    font-size: 300%;
+    font-family: 'Courier New', Courier, monospace;
+    color:#030b22;
+}
+
+#desc{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    font-weight: bold;
+}    
+.booktile{
+    background-color:  rgb(116, 202, 117);
+    border: darkcyan;
+    border-radius: 20px;
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    border-color: gray;
+    color:white;
+    font-size: 18px;
+}
+
+#typing
+{
+    background: #D3D3D3;
+    height: 30px;
+    border-radius: 30px;
+    padding: 5px;
+    outline: none;
+}
